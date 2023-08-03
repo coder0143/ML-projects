@@ -1,5 +1,6 @@
 # ML-projects
 * Notebooks of ml projects created during taking a course
+* My kaggle page: https://www.kaggle.com/prathamshahmldlds
 ## Notebooks:
 * Regression
     * Multiple linear R
