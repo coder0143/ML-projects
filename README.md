@@ -9,13 +9,13 @@
     * Support vector R
     * Descision tree R
     * Random forest R
-    * Artificial nn
+    * Artificial nn (Tensorflow)
 * Classification
     * Support vector C
     * Random forest
     * Descision tree
     * Naive Bayes
-    * Artificial nn
+    * Artificial nn (Tensorflow)
 * Clustering
     * K-means C
     * Hierarchical C
