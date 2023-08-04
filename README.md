@@ -9,14 +9,14 @@
     * [Support vector R](https://github.com/coder0143/ML-projects/blob/main/copy%20of%20support%20vector%20regression-checkpoint.ipynb)
     * [Descision tree R](https://github.com/coder0143/ML-projects/blob/main/descision%20tree%20regression-checkpoint.ipynb)
     * [Random forest R](https://github.com/coder0143/ML-projects/blob/main/random%20forest%20regression-checkpoint.ipynb)
-    * Artificial nn (Tensorflow)
+    * [Artificial nn R(Tensorflow)](https://colab.research.google.com/drive/1MvOLnegn-U2VgCKIobSPwGavfqP97ZoX)
 * Classification
     * [Logistic regression](https://github.com/coder0143/ML-projects/blob/main/logistic%20regression%20breast%20cancer%20application-checkpoint.ipynb)
     * [Support vector C](https://github.com/coder0143/ML-projects/blob/main/support%20vector%20classification-checkpoint.ipynb)
     * [Random forest C](https://github.com/coder0143/ML-projects/blob/main/Random%20forest%20classifier-checkpoint.ipynb)
     * [Descision tree](https://github.com/coder0143/ML-projects/blob/main/Descision%20tree%20classification-checkpoint.ipynb)
     * [Naive Bayes](https://github.com/coder0143/ML-projects/blob/main/Naive%20bayes-checkpoint.ipynb)
-    * Artificial nn (Tensorflow)
+    * [Artificial nn C(Tensorflow)](https://colab.research.google.com/drive/1LECQHvznHnDtS-1n1LNoNrkRvX9cJAjo#)
 * Clustering
     * [K-means C](https://github.com/coder0143/ML-projects/blob/main/K%20means%20clustering-checkpoint.ipynb)
     * [Hierarchical C](https://github.com/coder0143/ML-projects/blob/main/Hierarchical%20clustering-checkpoint.ipynb)
