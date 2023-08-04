@@ -1,7 +1,7 @@
 # ML-projects
 * Notebooks of ml projects created during taking a course
-* My kaggle page: https://www.kaggle.com/prathamshahmldlds
 * All data is also there in the files in csv or tsv formats
+* My kaggle page: https://www.kaggle.com/prathamshahmldlds
 ## Notebooks:
 * Regression
     * Multiple linear R
