@@ -11,6 +11,7 @@
     * [Random forest R](https://github.com/coder0143/ML-projects/blob/main/random%20forest%20regression-checkpoint.ipynb)
     * Artificial nn (Tensorflow)
 * Classification
+    * [Logistic regression](https://github.com/coder0143/ML-projects/blob/main/logistic%20regression%20breast%20cancer%20application-checkpoint.ipynb)
     * [Support vector C](https://github.com/coder0143/ML-projects/blob/main/support%20vector%20classification-checkpoint.ipynb)
     * [Random forest C](https://github.com/coder0143/ML-projects/blob/main/Random%20forest%20classifier-checkpoint.ipynb)
     * [Descision tree](https://github.com/coder0143/ML-projects/blob/main/Descision%20tree%20classification-checkpoint.ipynb)
@@ -30,3 +31,4 @@
     * [Data preprocessing toolkit](https://github.com/coder0143/ML-projects/blob/main/Copy_of_data_preprocessing_tools-checkpoint.ipynb)
     * [Comparing all Regression models](https://github.com/coder0143/ML-projects/blob/main/comparing%20all%20regression%20models-checkpoint.ipynb)
     * [Comparing all classification models](https://github.com/coder0143/ML-projects/blob/main/Comparing%20all%20classification%20models-checkpoint.ipynb)
+    * [Kfold and Grid search to evaluate models](https://github.com/coder0143/ML-projects/blob/main/kfold_grid_search.ipynb)
