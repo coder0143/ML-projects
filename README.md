@@ -5,7 +5,7 @@
 * Regression
     * Multiple linear R
     * SVM, Kernel SVM
-    * Polynomial R
+    * [Polynomial R](https://github.com/coder0143/ML-projects/blob/main/polynomial_regression-checkpoint.ipynb)
     * Support vector R
     * Descision tree R
     * Random forest R
