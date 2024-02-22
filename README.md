@@ -34,9 +34,14 @@
     * [Comparing all classification models](https://github.com/coder0143/ML-projects/blob/main/Comparing%20all%20classification%20models-checkpoint.ipynb)
     * [Kfold and Grid search to evaluate models](https://github.com/coder0143/ML-projects/blob/main/kfold_grid_search.ipynb)
 
-   ## Deep learning
-  * [Graph neural network based recommender system]
-  * [LSTM from scratch using pytorch-lightning]
-  * [Word Vectors in pytorch]
-  * [Data augmentation using albumentations for transfer learning]
+   ## Projects
+  * [Graph Neural Network based collaborative filtering recommender system](https://github.com/coder0143/ML-projects/blob/main/Basic_Collaborative_Filtering_with_Pytorch.ipynb)
+  * [LSTM from scratch using pytorch-lightning](https://github.com/coder0143/ML-projects/blob/main/pl_lstm.ipynb)
+  * [Word Vectors in pytorch](https://github.com/coder0143/ML-projects/blob/main/WV_torch.ipynb)
+  * [Data augmentation using albumentations for transfer learning](https://github.com/coder0143/ML-projects/blob/main/datagen.ipynb)
+  * Time series
+     * [Time series decomposition from scratch](https://github.com/coder0143/ML-projects/blob/main/time-series-decomposition-from-scratch.ipynb)
+     * [Simulating and forecasting a random walk](https://github.com/coder0143/ML-projects/blob/main/ch3.ipynb)
+     * [Using a MA model for stock prediction](https://github.com/coder0143/ML-projects/blob/main/ch4.ipynb)
+     * [Using an auto-regressive model](https://github.com/coder0143/ML-projects/blob/main/ch5.ipynb)
  
