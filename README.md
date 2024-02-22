@@ -33,3 +33,9 @@
     * [Comparing all Regression models](https://github.com/coder0143/ML-projects/blob/main/comparing%20all%20regression%20models-checkpoint.ipynb)
     * [Comparing all classification models](https://github.com/coder0143/ML-projects/blob/main/Comparing%20all%20classification%20models-checkpoint.ipynb)
     * [Kfold and Grid search to evaluate models](https://github.com/coder0143/ML-projects/blob/main/kfold_grid_search.ipynb)
+
+   ## Deep learning
+  * [Graph neural network based recommender system]
+  * [LSTM from scratch using pytorch-lightning]
+  * 
+ 
