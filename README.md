@@ -38,5 +38,5 @@
   * [Graph neural network based recommender system]
   * [LSTM from scratch using pytorch-lightning]
   * [Word Vectors in pytorch]
-  * 
+  * [Data augmentation using albumentations for transfer learning]
  
