@@ -46,4 +46,4 @@
      * [Using an auto-regressive model](https://github.com/coder0143/ML-projects/blob/main/ch5.ipynb)
 
 ## Pytorch
-* [Deep neural network implementations in pytorch for regression and classification] 
+* [Deep neural network implementations in pytorch for regression and classification](https://github.com/coder0143/ML-projects/blob/main/10_Basic_Ann.ipynb)
